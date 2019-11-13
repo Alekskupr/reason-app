@@ -1,0 +1,25 @@
+.miniImage {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.bigImage {
+  max-width: 100%;
+  height: 600px;
+  display: block;
+}
+
+.cont {
+  display: flex;
+}
+
+div {
+  background-color: rgb(198, 223, 195);
+}
+
+h4, h5 {
+  font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+   font-style: italic;
+}
+
